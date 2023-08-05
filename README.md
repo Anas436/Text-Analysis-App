@@ -49,10 +49,6 @@ The text is preprocessed then fed to the model.
 
 After the modeling part the model is deployed using Streamlit library on Streamlit Share so that the app is available for usage for everyone.
 
-## Link To My Web Application -
-
-https://share.streamlit.io/bhaswatiroy/complete-text-analysis-streamlit-web-app/main/app.py
-
 ## Glance At The Hosted Application- 
 
 ### 1. Home Page
