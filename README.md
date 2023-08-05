@@ -1,5 +1,5 @@
 <h1 align="center">
-             Complete Text Analysis Web App 💬 📝 ✍️
+                    Text Analysis Web App 💬 📝 ✍️
 </h1>
 
 ![image](https://github.com/Anas436/Text-Analysis-App/blob/main/Complete%20Text%20Analysis%20Home%20Page.jpg)
